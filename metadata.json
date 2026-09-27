@@ -1,0 +1,6 @@
+{
+  "name": "LocaTix",
+  "description": "Application mobile de location de maisons et appartements vérifiés, avec gestion locataires, propriétaires, annonces réelles, favoris et demandes de location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
